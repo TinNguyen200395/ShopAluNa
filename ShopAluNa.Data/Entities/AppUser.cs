@@ -1,4 +1,5 @@
-﻿using ShopAluNa.Data.Enums;
+﻿using Microsoft.AspNetCore.Identity;
+using ShopAluNa.Data.Enums;
 using ShopAluNa.Data.Interfaces;
 using System;
 using System.Collections.Generic;
