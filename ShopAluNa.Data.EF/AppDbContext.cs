@@ -39,7 +39,6 @@ namespace ShopAluNa.Data.EF
         public DbSet<ProductQuantity> ProductQuantities { set; get; }
         public DbSet<ProductTag> ProductTags { set; get; }
 
-        public DbSet<Size> Sizes { set; get; }
         public DbSet<Tag> Tags { set; get; }
 
         public DbSet<Permission> Permissions { get; set; }

@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ShopAluNa.Data\ShopAluNa.Data.csproj" />
+    <ProjectReference Include="..\ShopAluNa.Utilities\ShopAluNa.Utilities.csproj" />
   </ItemGroup>
 
 </Project>
